@@ -1,0 +1,16 @@
+           .ed{
+               border:solid;
+               background-color: red;
+               /*display: flex;*/
+               justify-content :space-between;
+           }
+
+           .ad{
+            border:solid;
+            background-color: rgb(47, 0, 255);
+            display: flex;
+        }
+            ul{
+                color:blueviolet;
+            }
+    
